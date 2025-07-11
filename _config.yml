@@ -1,5 +1,8 @@
 title: "Power Systems CORE Research Group - Durham University, Department of Engineering"
 description: "Power Systems Computation, Optimisation and Reliability Evaluation Research Group comprises of a group of research active academics with research interests in mathematical modelling of power systems and applications of AI/ML in modern power systems optimisation and control all with a single goal of keeping the lights on whilst maintaining our ambitious decarbonisation targets"
-theme: minima
-minima:
-skin: auto
+#theme: minima
+#minima:
+#skin: auto
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
